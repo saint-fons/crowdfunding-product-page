@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3070c586-4133-4900-9f17-26728d492302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/image-hero-desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/image-hero-mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style-dist.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style-dist.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style-dist.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.scss" afterDir="false" />
     </list>
@@ -42,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IMG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -61,8 +58,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615103727058</updated>
-      <workItem from="1615103728123" duration="25978000" />
+      <workItem from="1615103728123" duration="29006000" />
+      <workItem from="1615385618730" duration="2671000" />
+      <workItem from="1616407078586" duration="6613000" />
     </task>
+    <task id="LOCAL-00001" summary="base styles ver1">
+      <created>1615235895201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615235895201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="base styles ver1" />
+    <option name="LAST_COMMIT_MESSAGE" value="base styles ver1" />
   </component>
 </project>
